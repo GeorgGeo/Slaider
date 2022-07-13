@@ -1,2 +1,2 @@
 # Slaider
-_Slaider with JavaScript_
+_Slaider on JavaScript_
